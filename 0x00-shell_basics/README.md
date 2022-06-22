@@ -1,1 +1,1 @@
-Bring me home now
+There is no place like home
