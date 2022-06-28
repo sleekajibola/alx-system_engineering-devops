@@ -5,3 +5,4 @@ Task 4. Create a script that lists environment variables
 Task 5. Create a script that lists all local variables and environment variables, and functions
 Task 6. Create a script that creates a new local variable
 Task 7. Create a script that creates a new global variable
+Task 8. Write a script that prints the result of the addition of 128 with the value
