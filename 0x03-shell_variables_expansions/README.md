@@ -4,3 +4,4 @@ Task 3. Add /action to the PATH. /action should be the last directory the shell
 Task 4. Create a script that lists environment variables
 Task 5. Create a script that lists all local variables and environment variables, and functions
 Task 6. Create a script that creates a new local variable
+Task 7. Create a script that creates a new global variable
